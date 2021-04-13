@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**OxNinja/OxNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+French cybersecurity engineering student, I like the web and reverse-engineering 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+
+* 🐦 [Twitter](https://twitter.com/0x_Ninja)
+* 🕸️ [0xninja.fr](https://0xninja.fr)
+
+---
+
+![Stats1](https://github-readme-stats.vercel.app/api?username=OxNinja&count_private=true&show_icons=true&theme=vue-dark)
+
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=OxNinja&layout=compact&count_private=true&show_icons=true&theme=vue-dark)
