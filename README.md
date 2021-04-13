@@ -4,6 +4,8 @@
 
 French cybersecurity engineering student, I like the web and reverse-engineering 😄
 
+Web pentester, Android lover and low-level enjoyer
+
 ### Socials
 
 * 🐦 [Twitter](https://twitter.com/0x_Ninja)
