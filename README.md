@@ -14,4 +14,6 @@ CTF player at [Fake News](https://fakenews.sh).
 
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=OxNinja&theme=gruvbox&no-frame=true&margin-w=10)
+
 ![Stats1](https://github-readme-stats.vercel.app/api?username=OxNinja&count_private=true&show_icons=true&theme=nord)
