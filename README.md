@@ -9,11 +9,16 @@ Web pentester, Android enjoyer, reverse engineering and low-level enthousiast.
 CTF player at [Fake News](https://fakenews.sh).
 
 ## Socials
-
-[Twitter](https://twitter.com/0x_Ninja) | [Blog](https://0xninja.fr) | [HackTheBox](https://app.hackthebox.eu/profile/100982)
+<p align="center">
+  <a href="https://twitter.com/0x_Ninja">Twitter</a> | <a href="https://0xninja.fr">Blog</a> | <a href="https://app.hackthebox.eu/profile/100982">HackTheBox</a>
+</p>
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=OxNinja&theme=gruvbox&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OxNinja&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=4">
+</p>
 
-![Stats1](https://github-readme-stats.vercel.app/api?username=OxNinja&count_private=true&show_icons=true&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OxNinja&count_private=true&show_icons=true&theme=gruvbox">
+</p>
