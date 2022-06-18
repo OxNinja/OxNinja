@@ -6,8 +6,6 @@ French cybersecurity engineering student at [ENSIBS](https://www-ensibs.univ-ubs
 
 Web pentester, Android enjoyer, reverse engineering and low-level enthousiast.
 
-CTF player at [Fake News](https://fakenews.sh).
-
 ## Socials
 <p align="center">
   <a href="https://twitter.com/0x_Ninja">Twitter</a> | <a href="https://0xninja.fr">Blog</a> | <a href="https://app.hackthebox.eu/profile/100982">HackTheBox</a>
