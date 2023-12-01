@@ -8,7 +8,7 @@ Web pentester, Android enjoyer, reverse engineering and low-level enthousiast.
 
 ## Socials
 <p align="center">
-  <a href="https://twitter.com/0x_Ninja">Twitter</a> | <a href="https://0xninja.fr">Blog</a> | <a href="https://app.hackthebox.eu/profile/100982">HackTheBox</a>
+  <a href="https://mastodon.social/@0xninja">Mastodon</a> | <a href="https://0xninja.fr">Blog</a> | <a href="https://app.hackthebox.eu/profile/100982">HackTheBox</a>
 </p>
 
 ---
