@@ -1,6 +1,6 @@
 # Hello there 👋
 
-French cybersecurity engineering student from [ENSIBS](https://www-ensibs.univ-ubs.fr).
+French cybersecurity engineer.
 
 5 years of profesional experience in Networks & Telecommunications and Cybersecurity.
 
